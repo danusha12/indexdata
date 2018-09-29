@@ -1,0 +1,33 @@
+.mainDiv{
+  background-color:blue;
+  text-align: center;
+  }
+  .eduDiv{
+    background-color:pink;
+    display: flex;
+    justify-content: space-between;
+  }
+.SCCdiv{
+  width: 30%;
+  background: green;
+  text-align: center;
+  border: solid black;
+}
+.interDiv{
+  width: 30%;
+  background: orange;
+  text-align: center;
+    border: solid black;
+
+}
+.btechDiv{
+  width: 30%;
+  background: green;
+  text-align: center;
+    border: solid black;
+}
+.personalDiv{
+  margin-bottom: 5%;
+  background-color: pink;
+  border: solid black;
+}
